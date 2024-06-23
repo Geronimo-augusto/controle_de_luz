@@ -19,7 +19,7 @@ Este repositório contém o código-fonte e informações sobre um sistema de mo
 - Se necessário, utilize resistores para limitar a corrente dos LEDs.
 - Compilação e Carregamento:
 
-## vrificaçoes 
+## verificações 
 - Abra o código-fonte vinho.ino em uma IDE Arduino compatível.
 - Verifique se a placa e a porta estão configuradas corretamente na IDE.
 - Compile o código e carregue-o na placa Arduino.
